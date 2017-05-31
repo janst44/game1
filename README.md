@@ -1,2 +1,11 @@
 # game1
-describe your plan of the game here.
+Theme of the game:
+
+How the game works:
+
+What kind of graphic is needed?:
+
+Code design:
+  - graphical interface
+  
+  - underlying code
