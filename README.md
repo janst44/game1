@@ -1,12 +1,15 @@
 # game1
-# Hey! we said that we are going to make a video game together. Here you go! Let's do it together. I am thinking to do this in python. But I am okay to do whatever! We have computer scientists here and very smart chemists. Let's have fun!
+
 Theme of the game:
+
 shoots and ladders!!!
+
 How the game works:
+You have the GUI as a normal board game. As for rolling the dice, we can have a flashing screen of numbers and you will have to click to stop at the number you want. 
 
-What kind of graphic is needed?:
+Work to be done:
 
-Code design:
-  - graphical interface
-  
-  - underlying code
+--> GUI in pygame
+--> underlying code
+
+
