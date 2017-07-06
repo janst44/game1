@@ -1,7 +1,7 @@
 # game1
 # Hey! we said that we are going to make a video game together. Here you go! Let's do it together. I am thinking to do this in python. But I am okay to do whatever! We have computer scientists here and very smart chemists. Let's have fun!
 Theme of the game:
-shoots and ladders
+shoots and ladders!!!
 How the game works:
 I like to move it move it!
 What kind of graphic is needed?:
