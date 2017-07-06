@@ -3,7 +3,7 @@
 Theme of the game:
 shoots and ladders
 How the game works:
-
+I like to move it move it!
 What kind of graphic is needed?:
 
 Code design:
