@@ -5,11 +5,5 @@ class Node(object):
 		self.nextNode = nextNode
 		self.prevNode = prevNode
 	
-	def magnitude(self):
+	def printMagnitude(self):
 		print magnitude
-	
-	def nextNode(self):
-		print nextNode
-
-	def prevNode(self):
-		print prev
