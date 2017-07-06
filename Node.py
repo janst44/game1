@@ -1,7 +1,19 @@
-#include "Node.h"
+class Node(object):
 
-int Node::getMagnitude() const { return magnitude; }
+	def __init__(self, magnitude):
+		self.magnitude = magnitude
 
-NodeInterface* Node::getnext() const { return next.get(); }
+	def __init__(self, nextNode):
+		self.nextNode = nextNode
 
-NodeInterface* Node::getprev() const { return prev.get(); }
+	def __init__(self, prevNode):
+		self.prevNode = prevNode 
+	
+	def magnitude(self):
+		print magnitude
+	
+	def nextNode(self):
+		print nextNode
+
+	def prevNode(self):
+		print prev
